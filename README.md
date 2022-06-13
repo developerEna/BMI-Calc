@@ -1,1 +1,1 @@
-#Simple-Calc
+#BMI-Calc
