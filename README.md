@@ -1,2 +1,3 @@
-#BMI-Calc
-A BMI calculator for calculating BMI of a person
+# BMI CALCULATOR
+A BMI calculator for calculating BMI of a person.
+
